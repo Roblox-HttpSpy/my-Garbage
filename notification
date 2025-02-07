@@ -1,0 +1,49 @@
+-- // Sup?
+-- // this is a Notification System like one of those UI library, but i made it my self
+-- // i took the inspiration of the looks from RO-EXPLOITS v6.0 (from Krystal team)
+-- // Feel free to use it aslo
+
+local function SendNotifi(text, duration, soundId)
+    local gui = Instance.new("ScreenGui", game:GetService("CoreGui"))
+    local frame = Instance.new("Frame", gui)
+    local textLabel = Instance.new("TextLabel", frame)
+    local uiCorner = Instance.new("UICorner", frame)
+    local sound = Instance.new("Sound", gui)
+
+    sound.SoundId = soundId
+
+    frame.Size = UDim2.new(0, 0, 0, 0)
+    frame.Position = UDim2.new(0.5, 0, 0.5, 0)
+    frame.AnchorPoint = Vector2.new(0.5, 0.5)
+    frame.BackgroundColor3 = Color3.new(0.1, 0.1, 0.1)
+    frame.BackgroundTransparency = 0.3
+    frame.BorderSizePixel = 0
+    frame.ClipsDescendants = true
+
+    uiCorner.CornerRadius = UDim.new(0, 12)
+
+    textLabel.Size = UDim2.new(1, 0, 1, 0)
+    textLabel.Position = UDim2.new(0, 0, 0, 0)
+    textLabel.Text = text
+    textLabel.TextColor3 = Color3.new(1, 1, 1)
+    textLabel.BackgroundTransparency = 1
+    textLabel.Font = Enum.Font.SourceSans
+    textLabel.TextSize = 24
+    textLabel.TextWrapped = true
+
+    frame:TweenSize(UDim2.new(0, 400, 0, 100), Enum.EasingDirection.Out, Enum.EasingStyle.Back, 0.5, true, function()
+        sound:Play()
+        wait(duration)
+        frame:TweenSize(UDim2.new(0, 0, 0, 0), Enum.EasingDirection.In, Enum.EasingStyle.Back, 0.5, true, function()
+            gui:Destroy()
+        end)
+    end)
+end
+
+-- //HOW TO USE: "TEXT" IS WHERE YOU PUT YOUR NOTIFICATION TEXT
+-- // THE MIDDLE NUMBER IS THE DURATION
+-- // THE LAST THING IS THE SOUND EFFECT IT PLAYS
+-- // ALL THE TOUGHER SHOULD LOOK LIKE THIS
+-- // SendNotifi("TEXT", 5,"rbxassetid://???")
+
+return SendNotifi
