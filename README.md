@@ -44,6 +44,7 @@ all send to the server, thats it
 
 # RequireMents
 the Script can Run in low/Weak Executors including [Solara](https://getsolara.dev/) and even [Xeno](https://www.xeno.now/) (i think)...
+_it may be able to even run inside roblox studio but will need modifications like changing coregui to playerGui and remove loadstrings and ect_
 
 you can find many more Executors both Free & paid / powerful or weak or what ever: https://voxlis.net/
 
