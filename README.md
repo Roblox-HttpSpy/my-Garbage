@@ -49,4 +49,4 @@ _it may be able to even run inside roblox studio but will need modifications lik
 
 you can find many more Executors both Free & paid / powerful or weak or what ever: https://voxlis.net/
 
-_(not mine websites btw, i didnt get paid to promote them just a cool website with all verified links to official Executor sites)_
+_(not mine website btw, i didnt get paid to promote them just a cool website with all verified links to official Executor sites)_
