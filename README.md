@@ -1,6 +1,6 @@
 # FE AC6-MUSIC-EXPLOIT
 (or just Ac6-Exploit for short)
-Is a **Roblox-LUAu** Script, more specifically a **LocalScript** meant for **Executors**~
+Is a **Roblox-LUAU** Script, more specifically a **LocalScript** meant for **Executors**~
 (no need to add extra details-)
 
 # What Does it do?
@@ -40,7 +40,12 @@ lets explain what all they do
 
 **[7]** makes the audio looped or un 
 looped (true = looped / false = unlooped)
-all send to the server, thats it
+all send to the server,
+After all that it sends
+```lua
+FireServer("playSound", "Audios Name")
+```
+to play to play the sound and thats it that simple,
 
 # RequireMents
 the Script can Run in low/Weak Executors including [Solara](https://getsolara.dev/) and even [Xeno](https://www.xeno.now/) (i think)...
