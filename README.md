@@ -47,6 +47,15 @@ FireServer("playSound", "Audios Name")
 ```
 to play to play the sound and thats it that simple,
 
+# NOTES
+- Not all games have a vulnerable AC6, the script may flag there's a AC6 but you wont be able to play music on it
+
+- Some games do have vulnerable AC6 but simply Renamed the remote,
+if you a person that knows what there doing, you should: Execute [RemoteSpy](https://github.com/78n/SimpleSpy) and get on a car, if a remote is bieng fired with similar args of AC6 or atleast has the "PlaySound" or a rbxassest:// in one of the args, on AC6 Source replace "AC6_FE_Sounds" with the name of the suspected Remote Name and ReExecute..
+
+**ALSO** if you want to ask something or whatever open a **discussion** by clicking the 3 dots **...** on this repository, DO NOT open a issue if a game has ac6 but nothing is playing..
+
+
 # RequireMents & Misc.
 the Script can Run in low/Weak Executors including [Solara](https://getsolara.dev/) and [Xeno](https://www.xeno.onl//) even [JJExploits](https://wearedevs.net/d/JJSploit) (i think)...
 
