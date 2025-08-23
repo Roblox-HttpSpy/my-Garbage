@@ -68,10 +68,9 @@ https://voxlis.net/roblox/
 _(not mine website btw, i didnt get paid to promote them just a cool website with all verified links to official Executor sites)_
 
 ### Misc.
+
 **LICENSE**
-[![License: MIT](https://img.shields.io/badge/License-MIT-green
-)](https://github.com/Roblox-HttpSpy/my-Garbage/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green)](https://github.com/Roblox-HttpSpy/my-Garbage/blob/main/LICENSE)
 
 **Programming Language**
-[![Programming Language: LUAU](https://img.shields.io/badge/Programming%20Language%3A-LUAU-darkblue
-)](https://github.com/luau-lang/luau)
+[![Programming Language: LUAU](https://img.shields.io/badge/Programming%20Language%3A-LUAU-darkblue)](https://github.com/luau-lang/luau)
