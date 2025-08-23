@@ -56,7 +56,7 @@ if you a person that knows what there doing, you should: Execute [RemoteSpy](htt
 **ALSO** if you want to ask something or whatever open a **discussion** by clicking the 3 dots **...** on this repository, DO NOT open a issue if a game has ac6 but nothing is playing..
 
 
-# RequireMents & Misc.
+# RequireMents.
 the Script can Run in low/Weak Executors including [Solara](https://getsolara.dev/) and [Xeno](https://www.xeno.onl//) even [JJExploits](https://wearedevs.net/d/JJSploit) (i think)...
 
 _it may be able to even run inside roblox studio but will need modifications like changing coregui to playerGui and remove loadstrings and ect_
@@ -67,6 +67,10 @@ https://voxlis.net/roblox/
 
 _(not mine website btw, i didnt get paid to promote them just a cool website with all verified links to official Executor sites)_
 
-### Script License
+### Misc.
+**LICENSE**
 [![License: MIT](https://img.shields.io/badge/License-MIT-green
 )](https://github.com/Roblox-HttpSpy/my-Garbage/blob/main/LICENSE)
+**Programming Language**
+[![Programming Language: LUAU](https://img.shields.io/badge/Programming%20Language%3A-LUAU-darkblue
+)](https://github.com/luau-lang/luau)
