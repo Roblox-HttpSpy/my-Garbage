@@ -75,4 +75,4 @@ _(not mine website btw, i didnt get paid to promote them just a cool website wit
 
 **Programming Language**
 
-[![Programming Language: LUAU](https://img.shields.io/badge/Programming%20Language%3A-LUAU-darkblue)](https://github.com/luau-lang/luau)
+[![Scripting Language: LUAU](https://img.shields.io/badge/Scripting%20Language%3A-LUAU-darkblue)](https://github.com/luau-lang/luau)
