@@ -47,11 +47,16 @@ FireServer("playSound", "Audios Name")
 ```
 to play to play the sound and thats it that simple,
 
-# RequireMents
+# RequireMents & Misc.
 the Script can Run in low/Weak Executors including [Solara](https://getsolara.dev/) and even [Xeno](https://www.xeno.now/) (i think)...
 
 _it may be able to even run inside roblox studio but will need modifications like changing coregui to playerGui and remove loadstrings and ect_
-
-you can find many more Executors both Free & paid / powerful or weak or what ever: https://voxlis.net/
+you can find verified safe executors here: https://pulsery.net/
+or every known executor here:
+https://voxlis.net/roblox/
 
 _(not mine website btw, i didnt get paid to promote them just a cool website with all verified links to official Executor sites)_
+
+### Script License
+[![License: MIT](https://img.shields.io/badge/License-MIT-green
+)](https://github.com/Roblox-HttpSpy/my-Garbage/blob/main/LICENSE)
