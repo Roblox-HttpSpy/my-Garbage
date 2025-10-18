@@ -1,5 +1,5 @@
 > [!WARNING]
-> DEPRECATED! i no longer will longer Maintain this Version of this AC6-Music Exploit, you can find the new version [here](https://github.com/Roblox-HttpSpy/AC6-Music-Exploit/), Reason for depreciation is because this one has messy & bad code and a bad UI so i decided to ReCreate it entirely, but feel free to keep using this one...
+> DEPRECATED! i no longer will longer Maintain this Version of this AC6-Music Exploit, you can find the new version [here](https://github.com/Roblox-HttpSpy/AC6-Music-Exploit/), Reason for depreciation is because this one has messy & bad coding and a bad UI so i decided to Recreate it entirely, but feel free to keep using this one...
 
 ---
 
